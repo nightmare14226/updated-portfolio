@@ -22,7 +22,7 @@ const EarthCanvas = () => {
       camera={{
         fov: 45,
         near: 0.1,
-        far: 700,
+        far: 1000,
         position: [-4, 3, 6],
       }}
     >
