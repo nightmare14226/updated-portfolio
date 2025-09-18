@@ -134,7 +134,7 @@ const experiences: TExperience[] = [
     companyName: "Nationwide",
     icon: nationwide,
     iconBg: "#E6DEDD",
-    date: "May 2018 - April 2020",
+    date: "July 2018 - April 2020",
     points: [
       {
         title: "Started as a Frontend Developer, building performant and user-friendly web applications with React, Next.js, and TailwindCSS.",
